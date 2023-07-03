@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Talita Hanna</h1>
-<h3 align="center">Sou estudante de Sistemas para Internet, focada em Back End.</h3>
+<h3 align="center">Sou estudante de Sistemas para Internet, com interesse em Back End.</h3>
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
