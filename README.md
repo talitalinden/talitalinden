@@ -4,7 +4,7 @@
 <h3 align="left">Contatos:</h3>
 <p align="left">
 <a href="https://twitter.com/hannacab1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hannacab1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/talita-hanna-cabral-5a2571127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talita-hanna-cabral-5a2571127/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/talita-hanna-cabral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talita-hanna-cabral-5a2571127/" height="30" width="40" /></a>
 <a href="https://discord.gg/talita_hanna#6588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="talita_hanna#6588" height="30" width="40" /></a>
 </p>
 
